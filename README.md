@@ -1,5 +1,5 @@
 # skw-token
 
-- Chainlist - network browser for Metamask
-- Test wallet funding: https://faucet.ropsten.be/
+- https://chainlist.org/ - network browser for Metamask
+- https://faucet.ropsten.be/ - test wallet funding
 
